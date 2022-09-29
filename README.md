@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-card-using-flexbox-2GiRx4E0y_
-- Live Site URL: https://vaibhavityagi.github.io/
+- Live Site URL: https://vaibhavityagi.github.io/frontend-mentor/
 
 ## My process
 
