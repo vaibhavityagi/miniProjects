@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-images/screenshot.jpg
+![](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/qr-card-using-flexbox-2GiRx4E0y_
+- Live Site URL: https://vaibhavityagi.github.io/
 
 ## My process
 
@@ -67,4 +67,4 @@ Along with flexbox, I am learing to use grid. Would be creating more projects in
 ## Author
 
 - Frontend Mentor - [@vaibhavityagi](https://www.frontendmentor.io/profile/vaibhavityagi)
-- Twitter - [@@vaiviiiii](https://www.twitter.com/vaiviiiii)
+- Twitter - [@vaiviiiii](https://www.twitter.com/vaiviiiii)
